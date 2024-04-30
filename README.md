@@ -22,6 +22,12 @@ To use the project code, follow these steps:
 
 The results of the analysis are presented in the form of visualizations and initial inferences. These results provide insights into the behavior of local financial markets before, during, and after the COVID-19 pandemic.
 
+## Updated Features
+
+- Expanded data collection to include a wider array of financial markets and key indicators.
+- Enhanced statistical analysis using advanced models such as ARIMA, GARCH, and VAR.
+- Investigated the impact of regulatory and government interventions on market behavior.
+- Provided actionable insights for decision-makers based on the analysis results.
 
 ## Acknowledgments
 
